@@ -1,6 +1,5 @@
 package org.envy.sis;
 
-import org.envy.sis.model.Book;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

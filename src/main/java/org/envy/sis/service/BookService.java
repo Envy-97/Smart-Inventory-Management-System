@@ -1,13 +1,11 @@
 package org.envy.sis.service;
 
-import jakarta.persistence.criteria.CriteriaBuilder;
 import org.envy.sis.model.Book;
 import org.envy.sis.repo.BookRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class BookService {
